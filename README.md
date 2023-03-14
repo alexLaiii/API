@@ -78,7 +78,7 @@ To run the Museum React App API, you'll need to install the necessary dependenci
 4. Set the `JWT_SECRET` environment variable to a secret string of your choice.
 5. Run `node server.js` to start the local server.
 
-If you're looking for an easy way to deploy your Museum React App API, you can use the [Cyclic]([https://cyclic.app/](https://www.cyclic.sh/)) platform. With Cyclic, you can quickly deploy your API and start using it in your Museum Web App.
+If you're looking for an easy way to deploy your Museum React App API, you can use the [Cyclic](https://www.cyclic.sh/) platform. With Cyclic, you can quickly deploy your API and start using it in your Museum Web App.
 
 Here are the steps to deploy your Museum React App API on Cyclic:
 
