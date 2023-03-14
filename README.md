@@ -87,6 +87,6 @@ Here are the steps to deploy your Museum React App API on Cyclic:
 3. Connect your Cyclic project to your GitHub repository that contains your Museum React App API code.
 4. Set the `JWT_SECRET` environment variable in Cyclic to the same secret value you used when running the API locally.
 5. Don't forget to add your `MONGO_URL` as environment variable as well
-6. Your API should running properly with the Cyclic generated link!
+6. Your API should be up and running properly on Cyclic's generated link!
 
 That's it! Your Museum React App API is now deployed and ready to use.
